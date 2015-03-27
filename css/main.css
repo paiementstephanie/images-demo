@@ -8,4 +8,5 @@ html {
 
 .masthead{
 	background-image: url("../images/logo.svg");
+	background-size: 75px auto;
 }
