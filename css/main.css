@@ -13,6 +13,7 @@ img{
 
 body{
 	margin:0em;
+	font-family: georgia;
 }
 
 .masthead{
@@ -29,4 +30,14 @@ body{
 	padding: 1em;
 	margin: 0em;
 	text-align: center;
+}
+
+.btn{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+	padding: 0.5em 0.75em;
+	border-radius: 10px;
+	background-color: #a8ae98;
+	background-image: linear-gradient(to bottom, #a8ae98, #5b5e52);
 }
