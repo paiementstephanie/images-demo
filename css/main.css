@@ -17,11 +17,11 @@ body{
 }
 
 .masthead{
-	background-image: url("../images/logo.svg");
-	background-size: 75px auto;
+	background-image: url("../images/logo.svg"), url("../images/masthead-bg.png");
+	background-size: 75px auto, 200px auto;
 	padding: 6em;
-	background-repeat: no-repeat;
-	background-position: center 10px;
+	background-repeat: no-repeat, repeat;
+	background-position: center 10px, left top;
 	text-align: center;
 }
 
