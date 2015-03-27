@@ -9,4 +9,8 @@ html {
 .masthead{
 	background-image: url("../images/logo.svg");
 	background-size: 75px auto;
+	padding: 6em;
+	background-repeat: no-repeat;
+	background-position: center 10px;
+	text-align: center;
 }
